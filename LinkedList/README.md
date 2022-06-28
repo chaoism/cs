@@ -48,6 +48,10 @@ for (auto &&i : vec)
 // 返回 head->next 即是要构造的链表
 ```
 
+- [两数之和](include/AddTwoNumbers.h)
+
+- [合并两个有序的链表](include/MergeTwoLists.h)
+
 2. 链表的反转
 
 ```c++
@@ -73,6 +77,10 @@ ListNode* reverseList(ListNode* head) {
     return rev;
 }
 ```
+
+- [链表反转Ⅰ](include/ReverseList.h)
+
+- [链表反转Ⅱ]
 
 3. 链表的插入
 
