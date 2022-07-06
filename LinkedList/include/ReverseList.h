@@ -1,5 +1,4 @@
 #include "ListNode.h"
-#include <vector>
 
 class Solution {
 public:
